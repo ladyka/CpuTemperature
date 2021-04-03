@@ -1,0 +1,7 @@
+D:\_GOOGLE\2017\01\CpuTemperature\CpuTemperature\bin\Debug\CpuTemperature.exe
+D:\_GOOGLE\2017\01\CpuTemperature\CpuTemperature\bin\Debug\CpuTemperature.pdb
+D:\_GOOGLE\2017\01\CpuTemperature\CpuTemperature\obj\Debug\CpuTemperature.Form1.resources
+D:\_GOOGLE\2017\01\CpuTemperature\CpuTemperature\obj\Debug\CpuTemperature.Properties.Resources.resources
+D:\_GOOGLE\2017\01\CpuTemperature\CpuTemperature\obj\Debug\CpuTemperature.csproj.GenerateResource.Cache
+D:\_GOOGLE\2017\01\CpuTemperature\CpuTemperature\obj\Debug\CpuTemperature.exe
+D:\_GOOGLE\2017\01\CpuTemperature\CpuTemperature\obj\Debug\CpuTemperature.pdb
